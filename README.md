@@ -1,4 +1,4 @@
-**Hi there, I am Aafrin Sayani **👋
+#Hi there, I am Aafrin Sayani 👋
 
 Curently, I am a 2nd year Computer Science Student at Lasalle College of Montreal, Canada.
 
