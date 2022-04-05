@@ -9,5 +9,5 @@ I am currently learning to Build, Design, Develope and test the iOS Mobile Appli
     the core concepts of the  Analyzing, requirement gathering, Designing , Developing,
     Implementing, reviewing and testing  all at the same time which in the end always gives the real staisfaction.
   
-  - Get in touch with me **[HERE]**(https://www.linkedin.com/in/aafrin-sayani/)
+  - Get in touch with me [HERE](https://www.linkedin.com/in/aafrin-sayani/)
 
