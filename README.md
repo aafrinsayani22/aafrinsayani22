@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, I am Aafrin Sayani 👋
 
-<!--
-**aafrinsayani22/aafrinsayani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curently, I am a 2nd year Computer Science Student at Lasalle College of Montreal, Canada.
 
-Here are some ideas to get you started:
+I am currently learning to Build, Design, Develope and test the iOS Mobile Applications on the basis of RAD model in Software Developmnt Life Cycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - I like to self-teach more about The Real World iOS Coding.
+  - I Find Developing a Mobile Application from scratch, a fun journey as it teahces 
+    the core concepts of the  Analyzing, requirement gathering, Designing , Developing,
+    Implementing, reviewing and testing  all at the same time which is in the end always gives the real staisfaction.
+  
+  - Get in touch with me [HERE](https://www.linkedin.com/in/aafrin-sayani/![image](https://user-images.githubusercontent.com/48725236/161848727-15cabac7-2f42-46cb-91e8-9cb2d5dbf2ef.png)
+
