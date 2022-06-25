@@ -10,4 +10,5 @@ I am currently learning to Build, Design, Develop and test the iOS Mobile Applic
     Implementing, reviewing and testing  all at the same time which in the end always gives me the real staisfaction.
   
   - Get in touch with me [HERE](https://www.linkedin.com/in/aafrin-sayani/)
+  - Meet on twitter @AafrinSayani
 
